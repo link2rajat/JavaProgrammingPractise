@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+java.specification.name,sysinfo,,,"Java Platform API Specification",1358787522781
+java.specification.vendor,sysinfo,,,"Oracle Corporation",1358787522781
+java.specification.version,sysinfo,,,"1.7",1358787522781
+java.vendor,sysinfo,,,"Oracle Corporation",1358787522781
+java.version,sysinfo,,,"1.7.0_09",1358787522781
+java.vm.info,sysinfo,,,"mixed mode, sharing",1358787522781
+java.vm.name,sysinfo,,,"Java HotSpot(TM) Client VM",1358787522781
+java.vm.specification.name,sysinfo,,,"Java Virtual Machine Specification",1358787522781
+java.vm.specification.vendor,sysinfo,,,"Oracle Corporation",1358787522781
+java.vm.specification.version,sysinfo,,,"1.7",1358787522781
+java.vm.vendor,sysinfo,,,"Oracle Corporation",1358787522781
+java.vm.version,sysinfo,,,"23.5-b02",1358787522781
+started,bundle,org.eclipse.emf.common,2.5.0.v200906151043,"org.eclipse.emf.common",1358787522868
+started,bundle,org.eclipse.emf.ecore,2.5.0.v200906151043,"org.eclipse.emf.ecore",1358787523604
+started,bundle,org.eclipse.jem.util,2.0.200.v200905140200,"org.eclipse.jem.util",1358787523608
+started,bundle,org.eclipse.wst.common.frameworks,1.1.300.v200904160730,"org.eclipse.wst.common.frameworks",1358787523623
+started,bundle,org.eclipse.jst.jsf.common,1.1.7.v20090903,"org.eclipse.jst.jsf.common",1358787523740
+started,bundle,org.eclipse.jst.jsf.core,1.2.2.v20090903,"org.eclipse.jst.jsf.core",1358787523780
+started,bundle,org.eclipse.mylyn.team.ui,3.2.2.v20090912-0400-e3x,"org.eclipse.mylyn.team.ui",1358787523965
+started,bundle,org.eclipse.update.scheduler,3.2.200.v20081127,"org.eclipse.update.scheduler",1358787524010
+started,bundle,org.eclipse.update.core,3.2.300.v20090525,"org.eclipse.update.core",1358787524273
+started,bundle,org.eclipse.wst.ws.service.policy.ui,1.0.102.v200903070248,"org.eclipse.wst.ws.service.policy.ui",1358787524277
+started,bundle,org.eclipse.jsch.core,1.1.100.I20090430-0408,"org.eclipse.jsch.core",1358787525063
+started,bundle,org.eclipse.team.cvs.core,3.3.200.I20090430-0408,"org.eclipse.team.cvs.core",1358787525065
+started,bundle,org.eclipse.team.ui,3.5.0.I20090430-0408,"org.eclipse.team.ui",1358787525368

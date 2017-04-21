@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+started,bundle,org.eclipse.mylyn.monitor.ui,3.2.2.v20090912-0400-e3x,"org.eclipse.mylyn.monitor.ui",1350317944377
+started,bundle,org.eclipse.mylyn.tasks.ui,3.2.2.v20090912-0400-e3x,"org.eclipse.mylyn.tasks.ui",1350317944471
+started,bundle,org.eclipse.search,3.5.1.r351_v20090708-0800,"org.eclipse.search",1350317944471
+started,bundle,org.eclipse.team.core,3.5.0.I20090527-0620,"org.eclipse.team.core",1350317944471
+started,bundle,org.eclipse.team.ui,3.5.0.I20090430-0408,"org.eclipse.team.ui",1350317944471
+started,bundle,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui",1350317944564
+started,bundle,org.eclipse.ui.console,3.4.0.v20090513,"org.eclipse.ui.console",1350317944564
+started,bundle,org.eclipse.ui.editors,3.5.0.v20090527-2000,"org.eclipse.ui.editors",1350317944564
+started,bundle,org.eclipse.ui.forms,3.4.1.v20090714_35x,"org.eclipse.ui.forms",1350317944564
+started,bundle,org.eclipse.ui.ide,3.5.1.M20090826-0800,"org.eclipse.ui.ide",1350317944673
+started,bundle,org.eclipse.ui.net,1.2.1.r35x_20090812-1200,"org.eclipse.ui.net",1350317944673
+started,bundle,org.eclipse.ui.views,3.4.1.M20090826-0800,"org.eclipse.ui.views",1350317944673
+started,bundle,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"org.eclipse.ui.workbench",1350317944720
+started,bundle,org.eclipse.ui.workbench.texteditor,3.5.0.v20090603,"org.eclipse.ui.workbench.texteditor",1350317944720
+started,bundle,org.eclipse.update.configurator,3.3.0.v20090312,"org.eclipse.update.configurator",1350317944798
+os,sysinfo,,,"win32",1350317944814
+arch,sysinfo,,,"x86",1350317944814
+ws,sysinfo,,,"win32",1350317944814
+locale,sysinfo,,,"en_US",1350317944814
+processors,sysinfo,,,"2",1350317944814
+java.runtime.name,sysinfo,,,"Java(TM) SE Runtime Environment",1350317944814
+java.runtime.version,sysinfo,,,"1.7.0_07-b11",1350317944814
+java.specification.name,sysinfo,,,"Java Platform API Specification",1350317944814
+java.specification.vendor,sysinfo,,,"Oracle Corporation",1350317944814
+java.specification.version,sysinfo,,,"1.7",1350317944814

@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+locale,sysinfo,,,"en_US",1350017870985
+processors,sysinfo,,,"2",1350017870985
+java.runtime.name,sysinfo,,,"Java(TM) SE Runtime Environment",1350017870985
+java.runtime.version,sysinfo,,,"1.7.0_07-b11",1350017870985
+java.specification.name,sysinfo,,,"Java Platform API Specification",1350017870985
+java.specification.vendor,sysinfo,,,"Oracle Corporation",1350017870985
+java.specification.version,sysinfo,,,"1.7",1350017870985
+java.vendor,sysinfo,,,"Oracle Corporation",1350017870985
+java.version,sysinfo,,,"1.7.0_07",1350017870985
+java.vm.info,sysinfo,,,"mixed mode, sharing",1350017870985
+java.vm.name,sysinfo,,,"Java HotSpot(TM) Client VM",1350017870985
+java.vm.specification.name,sysinfo,,,"Java Virtual Machine Specification",1350017870985
+java.vm.specification.vendor,sysinfo,,,"Oracle Corporation",1350017870985
+java.vm.specification.version,sysinfo,,,"1.7",1350017870985
+java.vm.vendor,sysinfo,,,"Oracle Corporation",1350017870985
+java.vm.version,sysinfo,,,"23.3-b01",1350017870985
+started,bundle,org.eclipse.emf.ecore,2.5.0.v200906151043,"org.eclipse.emf.ecore",1350017871507
+started,bundle,org.eclipse.jem.util,2.0.200.v200905140200,"org.eclipse.jem.util",1350017871507
+started,bundle,org.eclipse.wst.common.frameworks,1.1.300.v200904160730,"org.eclipse.wst.common.frameworks",1350017871517
+started,bundle,org.eclipse.jst.jsf.common,1.1.7.v20090903,"org.eclipse.jst.jsf.common",1350017871992
+started,bundle,org.eclipse.jst.jsf.core,1.2.2.v20090903,"org.eclipse.jst.jsf.core",1350017872213
+started,bundle,org.eclipse.jpt.core,2.2.1.v200908270220,"org.eclipse.jpt.core",1350017873397
+started,bundle,org.eclipse.mylyn.commons.net,3.2.0.v20090617-0100-e3x,"org.eclipse.mylyn.commons.net",1350017873727
+started,bundle,org.eclipse.jpt.eclipselink.core,1.2.0.v200905310000,"org.eclipse.jpt.eclipselink.core",1350017873827
+opened,editor,org.eclipse.wst.xml.ui,1.1.1.v200908242115,"org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart",1350017874219

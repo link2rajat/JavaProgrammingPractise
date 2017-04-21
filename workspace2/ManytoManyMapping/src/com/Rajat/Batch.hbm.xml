@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC
+        "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+        "http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+
+<hibernate-mapping package="com.Rajat">
+
+	<class name="Batch" table="BATCH">
+		<id name="batchID" column="BATCH_ID" />
+		<property name="duration" />
+		<property name="fee" />
+		<set name="students" table = "B_S_JOIN" inverse = "true">
+			<key column="BATCH_ID" />
+			<many-to-many column = "STUDENT_ID" class="Student" />
+		</set>
+	</class>
+	<class name="Student" table="STUDENT">
+		<id name="studentID" column="STUDENT_ID"/>
+		<property name="firstName" />
+		<property name="lastName" />
+		<property name="age" />
+		<set name="batches" table = "B_S_JOIN">
+			<key column="STUDENT_ID" />
+			<many-to-many column = "BATCH_ID" class="Batch" />
+		</set>
+	</class>
+</hibernate-mapping>

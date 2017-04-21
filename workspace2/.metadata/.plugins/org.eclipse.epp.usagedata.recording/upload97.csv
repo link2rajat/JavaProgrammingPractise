@@ -1,0 +1,14 @@
+what,kind,bundleId,bundleVersion,description,time
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1349890943782
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1349890945458
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1349890971586
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1349890977008
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1349891055530
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1349891055720
+started,bundle,org.eclipse.wst.xsl.debug.ui,1.0.0.v200904240436,"org.eclipse.wst.xsl.debug.ui",1349891056772
+activated,editor,org.eclipse.wst.xml.ui,1.1.1.v200908242115,"org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart",1349891060264
+closed,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1349891060678
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.file.exit",1349891061412
+stopped,bundle,org.eclipse.jst.ws.axis.creation.ui,1.0.406.v200903031852,"org.eclipse.jst.ws.axis.creation.ui",1349891061654
+stopped,bundle,org.eclipse.jst.ws.axis.consumption.ui,1.0.405.v200901261650,"org.eclipse.jst.ws.axis.consumption.ui",1349891061694
+stopped,bundle,org.eclipse.jst.ws.axis.consumption.core,1.0.306.v200810082309,"org.eclipse.jst.ws.axis.consumption.core",1349891061724

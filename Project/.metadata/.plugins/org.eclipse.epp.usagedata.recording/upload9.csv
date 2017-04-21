@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+started,bundle,org.eclipse.pde.ui,3.5.0.v20090821,"org.eclipse.pde.ui",1349531008771
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.edit.text.contentAssist.proposals",1349531013246
+executed,command,,,"AUTOGEN:::org.eclipse.jdt.internal.ui.CompilationUnitEditor.ruler.actions/org.eclipse.jdt.internal.ui.javaeditor.JavaSelectRulerAction",1349531045375
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1349531050887
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1349531056889
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.edit.text.contentAssist.proposals",1349531077663
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1349531141429
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1349531143269
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1349531143349
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1349531145231
+closed,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1349531145815
+error,log,,,"Unhandled event loop exception during blocked modal context.",1349531146088
+stopped,bundle,org.eclipse.jst.ws.axis.creation.ui,1.0.406.v200903031852,"org.eclipse.jst.ws.axis.creation.ui",1349531146904
+stopped,bundle,org.eclipse.jst.ws.axis.consumption.ui,1.0.405.v200901261650,"org.eclipse.jst.ws.axis.consumption.ui",1349531146904
+stopped,bundle,org.eclipse.jst.ws.axis.consumption.core,1.0.306.v200810082309,"org.eclipse.jst.ws.axis.consumption.core",1349531146914
+stopped,bundle,org.eclipse.jst.ws.axis2.creation.ui,1.0.103.v200807162242,"org.eclipse.jst.ws.axis2.creation.ui",1349531146914
+stopped,bundle,org.eclipse.jst.ws.axis2.consumption.ui,1.0.102.v200807232000,"org.eclipse.jst.ws.axis2.consumption.ui",1349531146914
+stopped,bundle,org.eclipse.jst.ws.axis2.creation.core,1.0.105.v200901220134,"org.eclipse.jst.ws.axis2.creation.core",1349531146914
+stopped,bundle,org.eclipse.jst.ws.axis2.consumption.core,1.0.104.v200810151442,"org.eclipse.jst.ws.axis2.consumption.core",1349531146924
+stopped,bundle,org.eclipse.jst.ws.axis2.ui,1.0.302.v200905260749,"org.eclipse.jst.ws.axis2.ui",1349531146924
+stopped,bundle,org.eclipse.jst.ws.axis2.core,1.0.104.v200810151442,"org.eclipse.jst.ws.axis2.core",1349531146924
+stopped,bundle,org.eclipse.jst.ws.creation.ui,1.0.408.v200904211646,"org.eclipse.jst.ws.creation.ui",1349531146924
+stopped,bundle,org.eclipse.jst.ws.consumption.ui,1.1.105.v200908192014,"org.eclipse.jst.ws.consumption.ui",1349531146924
+stopped,bundle,org.eclipse.jst.ws.consumption,1.0.407.v200905191120,"org.eclipse.jst.ws.consumption",1349531146935
+stopped,bundle,org.eclipse.jst.ws.uddiregistry,1.0.400.v200901261650,"org.eclipse.jst.ws.uddiregistry",1349531146940

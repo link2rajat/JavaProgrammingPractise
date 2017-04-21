@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC
+        "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+        "http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+
+<hibernate-mapping package="com.Rajat">
+
+    <class name="PermanentEmployee" table="P_EMPLOYEE">
+        <id name="id" column="PER_EMP_ID">
+            <generator class="assigned"/>
+        </id>
+         <property name="firstName"/>
+        <property name="lastName"/>
+        <property name="age"/>
+        <property name="projectName"/>
+        <property name="salary"/>
+         <property name="allowance"/>
+          <property name="leaveCount"/>
+    </class>
+</hibernate-mapping>

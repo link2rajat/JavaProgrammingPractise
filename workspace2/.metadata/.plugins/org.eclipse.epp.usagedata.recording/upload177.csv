@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+java.specification.vendor,sysinfo,,,"Oracle Corporation",1350056547084
+java.specification.version,sysinfo,,,"1.7",1350056547084
+java.vendor,sysinfo,,,"Oracle Corporation",1350056547084
+java.version,sysinfo,,,"1.7.0_07",1350056547084
+java.vm.info,sysinfo,,,"mixed mode, sharing",1350056547084
+java.vm.name,sysinfo,,,"Java HotSpot(TM) Client VM",1350056547084
+java.vm.specification.name,sysinfo,,,"Java Virtual Machine Specification",1350056547084
+java.vm.specification.vendor,sysinfo,,,"Oracle Corporation",1350056547084
+java.vm.specification.version,sysinfo,,,"1.7",1350056547084
+java.vm.vendor,sysinfo,,,"Oracle Corporation",1350056547084
+java.vm.version,sysinfo,,,"23.3-b01",1350056547084
+started,bundle,org.eclipse.emf.ecore,2.5.0.v200906151043,"org.eclipse.emf.ecore",1350056547661
+started,bundle,org.eclipse.jem.util,2.0.200.v200905140200,"org.eclipse.jem.util",1350056547676
+started,bundle,org.eclipse.wst.common.frameworks,1.1.300.v200904160730,"org.eclipse.wst.common.frameworks",1350056547676
+started,bundle,org.eclipse.jst.jsf.common,1.1.7.v20090903,"org.eclipse.jst.jsf.common",1350056547754
+started,bundle,org.eclipse.jst.jsf.core,1.2.2.v20090903,"org.eclipse.jst.jsf.core",1350056547864
+started,bundle,org.eclipse.mylyn.team.ui,3.2.2.v20090912-0400-e3x,"org.eclipse.mylyn.team.ui",1350056548035
+started,bundle,org.eclipse.update.scheduler,3.2.200.v20081127,"org.eclipse.update.scheduler",1350056548082
+started,bundle,org.eclipse.update.core,3.2.300.v20090525,"org.eclipse.update.core",1350056548503
+started,bundle,org.eclipse.wst.ws.service.policy.ui,1.0.102.v200903070248,"org.eclipse.wst.ws.service.policy.ui",1350056548581
+started,bundle,org.eclipse.jsch.core,1.1.100.I20090430-0408,"org.eclipse.jsch.core",1350056550391
+started,bundle,org.eclipse.team.cvs.core,3.3.200.I20090430-0408,"org.eclipse.team.cvs.core",1350056550391
+started,bundle,org.eclipse.jdt.apt.core,3.3.201.R35x_v20090818-0235,"org.eclipse.jdt.apt.core",1350056550781
+started,bundle,org.eclipse.team.ui,3.5.0.I20090430-0408,"org.eclipse.team.ui",1350056551623
+started,bundle,org.eclipse.ui.console,3.4.0.v20090513,"org.eclipse.ui.console",1350056552185

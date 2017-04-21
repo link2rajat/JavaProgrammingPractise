@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+started,bundle,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui",1349971007407
+started,bundle,org.eclipse.ui.forms,3.4.1.v20090714_35x,"org.eclipse.ui.forms",1349971007407
+started,bundle,org.eclipse.ui.ide,3.5.1.M20090826-0800,"org.eclipse.ui.ide",1349971007437
+started,bundle,org.eclipse.ui.net,1.2.1.r35x_20090812-1200,"org.eclipse.ui.net",1349971007437
+started,bundle,org.eclipse.ui.views,3.4.1.M20090826-0800,"org.eclipse.ui.views",1349971007437
+started,bundle,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"org.eclipse.ui.workbench",1349971007467
+started,bundle,org.eclipse.update.configurator,3.3.0.v20090312,"org.eclipse.update.configurator",1349971007487
+started,bundle,org.eclipse.wst.common.frameworks,1.1.300.v200904160730,"org.eclipse.wst.common.frameworks",1349971007487
+started,bundle,org.eclipse.wst.common.project.facet.core,1.4.1.v200908111817,"org.eclipse.wst.common.project.facet.core",1349971007487
+started,bundle,org.eclipse.wst.web,1.1.301.v200909021400,"org.eclipse.wst.web",1349971007487
+os,sysinfo,,,"win32",1349971007497
+arch,sysinfo,,,"x86",1349971007497
+ws,sysinfo,,,"win32",1349971007497
+locale,sysinfo,,,"en_US",1349971007497
+processors,sysinfo,,,"2",1349971007497
+java.runtime.name,sysinfo,,,"Java(TM) SE Runtime Environment",1349971007497
+java.runtime.version,sysinfo,,,"1.7.0_07-b11",1349971007497
+java.specification.name,sysinfo,,,"Java Platform API Specification",1349971007497
+java.specification.vendor,sysinfo,,,"Oracle Corporation",1349971007497
+java.specification.version,sysinfo,,,"1.7",1349971007497
+java.vendor,sysinfo,,,"Oracle Corporation",1349971007497
+java.version,sysinfo,,,"1.7.0_07",1349971007497
+java.vm.info,sysinfo,,,"mixed mode, sharing",1349971007497
+java.vm.name,sysinfo,,,"Java HotSpot(TM) Client VM",1349971007497
+java.vm.specification.name,sysinfo,,,"Java Virtual Machine Specification",1349971007497

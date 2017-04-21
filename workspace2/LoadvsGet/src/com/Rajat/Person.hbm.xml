@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC
+        "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+        "http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+
+<hibernate-mapping package="com.Rajat.Person">
+
+    <class name="com.Rajat.Person" table="PERSON_LOADvsGET">
+        <id name="id"/>
+        <property name="firstname"/>
+        <property name="lastname"/>
+        <property name="age"/>
+    </class>
+
+</hibernate-mapping>

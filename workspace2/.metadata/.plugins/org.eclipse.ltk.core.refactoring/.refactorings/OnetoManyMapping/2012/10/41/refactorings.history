@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;OnetoManyMapping/src/com/Rajat/Person.hbm.xml&apos; to &apos;Batch.hbm.xml&apos;" description="Rename resource &apos;Person.hbm.xml&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/com/Rajat/Person.hbm.xml" name="Batch.hbm.xml" stamp="1349971818910" updateReferences="true"/>
+</session>

@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC
+        "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+        "http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+
+<hibernate-mapping package="com.Rajat">
+
+	<class name="Person" table="PERSON2" discriminator-value="p">
+		<id name="id" column="PERSON_ID">
+			<generator class="assigned" />
+		</id>
+		<discriminator column = "obj_typ" type = "string"/>
+		<property name="firstName" />
+		<property name="lastName" />
+		<property name="age" />
+		<subclass name="Employee" discriminator-value="e">
+			<property name="projectName" />
+			<property name="salary" />
+			<subclass name="PermanentEmployee" discriminator-value="pe">
+				<property name="allowance" />
+				<property name="leaveCount" />
+			</subclass>
+		</subclass>
+
+	</class>
+
+</hibernate-mapping>
